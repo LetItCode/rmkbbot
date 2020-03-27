@@ -1,5 +1,4 @@
-const Composer = require('telegraf/composer')
-const Markup = require('telegraf/markup')
+const { Composer, Markup } = require('telegraf/composer')
 const bot = new Composer()
 
 bot.command(
