@@ -8,7 +8,7 @@ bot.command(
     clear,
     ({ botInfo, replyWithHTML }) =>
       replyWithHTML(
-        "Hi! I can help you to clear chat from custom keyboard. Just invite me and everything's gonna be alrigh!",
+        "Hi! I can help you to clear chat from custom keyboard. Just invite me and everything's gonna be alright!",
         Markup.inlineKeyboard([
           Markup.urlButton('Invite dat cool bot', `https://t.me/${botInfo.username}?startgroup=clear`)
         ]).extra()

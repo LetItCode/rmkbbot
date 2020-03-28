@@ -1,6 +1,6 @@
 # rmkbbot
 
-Telegram bot for remove custom keyboard from chat. Just invite him and everything's gonna be alrigh!
+Telegram bot for remove custom keyboard from chat. Just invite him and everything's gonna be alright!
 
 [🤖Demo](https://t.me/rmkbbot)
 
