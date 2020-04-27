@@ -1,4 +1,4 @@
 btn:
   invite: Invite dat cool bot
-help: Hi! I can help you to clear chat from custom keyboard. Just invite me to this chat and everything's gonna be alright!
-clear: '🧽 Okay chat is cleared, you can send a BTC tip to\: <code>1JosHdiEs32PfTAbbaVpuFXq3pG5bR5yBb</code>'
+greet: Hi! I can help you to clear chat from custom keyboard. Just invite me to this chat and everything's gonna be alright!
+clear: '🧽 Okay chat is cleared, you can send a BTC tip to: <code>1JosHdiEs32PfTAbbaVpuFXq3pG5bR5yBb</code>'
