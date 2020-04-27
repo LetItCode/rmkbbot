@@ -1,0 +1,27 @@
+{
+  "name": "memex",
+  "version": "1.0.0",
+  "description": "Telegram bot for remove custom keyboard from chat",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon -w src src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Josh Dies",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0",
+    "telegraf-i18n": "^6.6.0",
+    "telegraf-mixpanel": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "nodemon": "^2.0.3"
+  }
+}
